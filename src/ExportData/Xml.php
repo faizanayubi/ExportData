@@ -1,6 +1,6 @@
 <?php
 
-namespace ExportData\Exporter;
+namespace ExportData;
 
 /**
  * Generates XML from a database result, and outputs it as a file or string.

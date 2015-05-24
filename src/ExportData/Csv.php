@@ -1,6 +1,6 @@
 <?php
 
-namespace ExportData\Exporter;
+namespace ExportData;
 
 /**
  * Exports a database result to a local or download CSV file.

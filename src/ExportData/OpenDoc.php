@@ -1,6 +1,6 @@
 <?php
 
-namespace ExportData\Exporter;
+namespace ExportData;
 
 /**
  * Merges XML into an OpenDocument text (.odt) file.

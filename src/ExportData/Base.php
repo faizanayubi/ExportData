@@ -1,6 +1,6 @@
 <?php
 
-namespace ExportData\Exporter;
+namespace ExportData;
 
 /**
  * Common Functionality for Several Export Classes

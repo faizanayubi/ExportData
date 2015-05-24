@@ -1,6 +1,6 @@
 <?php
 
-namespace ExportData\Exporter;
+namespace ExportData;
 
 /**
  * Extends OpenDoc to merge XML into a Microsoft Word .docx file.
